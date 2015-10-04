@@ -1,0 +1,5 @@
+# Python virtualenv dir
+bin/
+include/
+lib/
+lib64
