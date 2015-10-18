@@ -1,0 +1,5 @@
+[21]
+mode=IN
+pull_up_down=off
+event=RISING
+id=1234

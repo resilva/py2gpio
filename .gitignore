@@ -3,3 +3,10 @@ bin/
 include/
 lib/
 lib64
+
+# Python compiled files
+*.pyc
+
+# Config files
+config.ini
+channels.ini

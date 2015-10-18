@@ -1,0 +1,6 @@
+[general]
+debug=off
+send_on_startup=on
+
+[api]
+url=http://127.0.0.1/api/api.php?key=aaaaa&type=virtual&id=$id&value=$value
